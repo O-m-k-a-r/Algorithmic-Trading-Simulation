@@ -2,7 +2,5 @@ streamlit
 matplotlib
 numpy
 pandas
-subprocess
 visualise2
-os
 datetime
