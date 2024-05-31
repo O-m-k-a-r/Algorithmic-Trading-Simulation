@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+numpy
+pandas
+json
+subprocess
+visualise2
+os
+datetime
